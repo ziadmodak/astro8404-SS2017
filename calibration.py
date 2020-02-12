@@ -1,4 +1,3 @@
-#This script was written by Ziad Modak for imaging the ALMA Data of NGC 1614 as part of the Master course astro8404: Radio Interferometry in SS 2017
 
 
 ###############################
